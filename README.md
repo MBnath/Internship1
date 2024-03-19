@@ -1,4 +1,4 @@
-# Repository Statistics
+#  Corpus and Terminology Dictionary Statistics
 
 ## Domain Statistics
 
