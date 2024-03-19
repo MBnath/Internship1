@@ -1,7 +1,7 @@
 # Internship1
 **The statistics for each domain and overall in the repository are as follows:**                                                                                                                                  
-1. **Health Domain:**     	
-     Corpus Size: 10,000 sentences.                                                                                                                                           
+1. **Health Domain:**               	
+     Corpus Size: 10,000 sentences.     
      Terminology Dictionary Size: 83.                                                                                                                                                                                              
 2. **Education Domain:**     
      Corpus Size: 10,000 sentences.     
